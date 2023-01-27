@@ -1,0 +1,1 @@
+# My simple nvim setup
